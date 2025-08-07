@@ -1,4 +1,4 @@
-I am currently pursuing a B.Tech. in Biotechnology at NSUT. I have a basic understanding of Python and C++. In addition to my academic interests, I maintain a blog at [codedrinc.blogspot.com](https://codedrinc.blogspot.com) where I share my thoughts and experiences. Outside of academics and blogging, I enjoy playing football and guitar.
+I am currently pursuing a B.Tech. in Biotechnology at NSUT. I have a basic understanding of Python and C++. In addition to my academic interests, I maintain a blog at [codedrinc.blogspot.com](https://codedrinc.blogspot.com), where I share my Python coding projects. Outside of academics and blogging, I enjoy playing football and guitar.
 <!--
 **NAMAN-2348/NAMAN-2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
