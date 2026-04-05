@@ -14,6 +14,14 @@
 
 ---
 
+## 🧬 Domain Interests
+- Genomics
+- Computational Biology
+- Bioinformatics
+- AI in Healthcare
+
+---
+
 ## 🛠️ Tech Stack
 
 * 💻 Python, C++
@@ -29,13 +37,13 @@
 
 A web-based tool to detect and visualize DNA mutations (SNPs)
 
-🔗 https://github.com/NAMAN-2348/genomic-analyzer
+🔗 [Genomic Intelligence Platform](https://github.com/NAMAN-2348/genomic-analyzer)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMAN-2348\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NAMAN-2348&show_icons=true&theme=tokyonight)
 
 ---
 
