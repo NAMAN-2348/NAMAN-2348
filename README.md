@@ -1,15 +1,59 @@
-I am currently pursuing a B.Tech. in Biotechnology at NSUT. I have a basic understanding of Python and C++. In addition to my academic interests, I maintain a blog at [codedrinc.blogspot.com](https://codedrinc.blogspot.com), where I share my Python coding projects. Outside of academics and blogging, I enjoy playing football and guitar.
-<!--
-**NAMAN-2348/NAMAN-2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Naman Arora
 
-Here are some ideas to get you started:
+🎓 B.Tech Biotechnology @ NSUT
+💻 Interested in Bioinformatics, Genomics & AI
+🚀 Building projects at the intersection of biology and technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Current Focus
+
+* 🧬 Genomic Data Analysis
+* 🤖 Machine Learning in Biology
+* 🧪 Bioinformatics Tools Development
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Python, C++
+* 🌐 Flask, HTML/CSS
+* 📊 Plotly, Pandas
+* 🧬 Bioinformatics Concepts
+
+---
+
+## 🚀 Featured Project
+
+### 🧬 Genomic Analyzer
+
+A web-based tool to detect and visualize DNA mutations (SNPs)
+
+🔗 https://github.com/NAMAN-2348/genomic-analyzer
+
+---
+
+## 📊 GitHub Stats
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMAN-2348\&show_icons=true\&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Bioinformatics
+* Data Structures & Algorithms
+* Machine Learning
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [2348arora.naman@gmail.com](mailto:2348arora.naman@gmail.com)
+* 🌐 Blog: [CodeDrinc](https://codedrinc.blogspot.com)
+
+---
+
+## ⚡ Fun Fact
+
+I mix biology + coding 🧬💻 to build cool tools 😄
