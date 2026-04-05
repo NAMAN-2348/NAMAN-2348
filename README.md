@@ -59,9 +59,3 @@ A web-based tool to detect and visualize DNA mutations (SNPs)
 
 * 📧 Email: [2348arora.naman@gmail.com](mailto:2348arora.naman@gmail.com)
 * 🌐 Blog: [CodeDrinc](https://codedrinc.blogspot.com)
-
----
-
-## ⚡ Fun Fact
-
-I mix biology + coding 🧬💻 to build cool tools 😄
